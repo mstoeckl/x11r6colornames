@@ -1,0 +1,7 @@
+[package]
+name = "x11r6colornames"
+version = "1.0.0"
+license = "(0BSD OR CC0-1.0) AND X11"
+rust-version = "1.17.0"
+description = "Color database matching X11R6"
+readme = "README.md"
